@@ -10,6 +10,7 @@
 ## Installation <a name="installation"></a>
 I have added this text here in the README file.
 I have added a new stoopid text here.
+This is Tom's change.
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
